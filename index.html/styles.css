@@ -1,0 +1,28 @@
+h1 {
+    background-color:	#0000FF;
+    color:#FFFFFF;
+}
+button {
+    background-color:rgb(198, 224, 79);
+    text-transform: uppercase;
+}
+h2{
+    font-family: Arial, Sans-serif;
+    background-color:	#0000FF;
+    color:white
+}
+p {
+    background-color: white;
+    text-align: justify;
+    font-size: medium;
+    font-weight: bold;  
+}
+b{
+    font-size: larger;
+    text-transform: lowercase;
+}
+div {
+    text-transform: uppercase;
+    font-size: small;
+    font-weight: bold;
+}
